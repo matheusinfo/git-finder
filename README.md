@@ -24,7 +24,7 @@
     Demo do app no netlify
 </h3>
 
-<p align="center">https://gitfinder.netlify.app/</p>
+<p align="center">https://mapx-gitfinder.netlify.app</p>
 
 ## :boom: Tecnologias
 
