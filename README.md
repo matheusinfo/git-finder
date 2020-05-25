@@ -1,44 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/48860569/82843726-73a95300-9eb4-11ea-824e-e8b2fd299459.png"/>
+    <br>
+    GitFinder
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  Essa aplicação foi feita para estudar um pouco do TypeScript usando a api do GitHub!
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/82843579-ef56d000-9eb3-11ea-8a0d-93d8e113536b.png">
+  <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/82843577-eebe3980-9eb3-11ea-9db3-4c8566ff3bc2.png">
+  <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/82843578-eebe3980-9eb3-11ea-9db6-8487dfdcc528.png">
+  <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/82843576-ee25a300-9eb3-11ea-8f66-486c1b9749cb.png">
 
-### `yarn start`
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#boom-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+<h3 align="center">
+    Demo do app no netlify
+</h3>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">https://gitfinder.netlify.app/</p>
 
-### `yarn build`
+## :boom: Tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Esse projeto foi desenvolvido para estudo, e usei as seguintes tecnologias:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+-  [ReactJS](https://reactjs.org/)
+-  [ReactHooks](https://github.com/rehooks/awesome-react-hooks)
+-  [Axios](https://github.com/axios/axios)
+-  [styled-components](https://www.styled-components.com/)
+-  [React-Icons](https://github.com/react-icons/react-icons)
+-  [TypeScript](https://github.com/microsoft/TypeScript)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## :boom: Como usar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clonar o repositório
+$ git clone https://github.com/MatheusINFO/GitFinder.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Ir dentro do repositório clonado
+$ cd GitFinder
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Instalar as dependências
+$ yarn install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Rodar o app
+$ yarn start
+```
