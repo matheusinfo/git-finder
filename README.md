@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/48860569/82843726-73a95300-9eb4-11ea-824e-e8b2fd299459.png"/>
+    <img src="https://user-images.githubusercontent.com/48860569/82843948-2974a180-9eb5-11ea-9fb1-4be4976ef127.png"/>
     <br>
     GitFinder
 </h1>
