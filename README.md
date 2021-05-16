@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido para estudo, e usei as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/MatheusINFO/GitFinder.git
+$ git clone https://github.com/MatheusINFO/git-finder.git
 
 # Ir dentro do repositório clonado
 $ cd GitFinder
